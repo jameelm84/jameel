@@ -52,5 +52,10 @@ print(round(3.6564564454546, 5))
 print(round(3.99445, 2))
 print(round(3.99645, 2))
 
+b= 3
+b= b*b
+b=b+b*b
+print(b)
 
+max(345)
 
