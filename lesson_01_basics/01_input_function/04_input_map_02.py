@@ -4,6 +4,3 @@
 #print(score1, type(score1), score2, type(score2))
 #print(score1, type(score1), score2, type(score2))
 #print(score1 + score2 + score3)
-
-a + = 1
-print(a)
