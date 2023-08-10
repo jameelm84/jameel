@@ -1,16 +1,7 @@
-print(150)
-print(150)
-print(150)
-print(150)
-print(150)
-print(150)
-print(150)
-print(150)
-print(150)
-print(150)
-print("jameelm")
-age: int= 35
-print(age)
-
-
-
+number = 10
+# print (f"number = {number}")
+#
+# number = number + 10
+# print(number)
+number += 10
+print(f"number --> number = number + 10 \n => {number}")
