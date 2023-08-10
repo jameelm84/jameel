@@ -1,0 +1,12 @@
+# print(ord('b'))
+# s = 'Hello, world!'
+# print(ord(s[0]))
+# print("W"*777)
+first_input = input("Enter a string: ")
+print(first_input)
+user_input = first_input.split(":")
+print(user_input)
+print(user_input[0])
+print(user_input[1])
+
+

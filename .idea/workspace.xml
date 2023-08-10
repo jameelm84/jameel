@@ -5,12 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="749b2a39-003e-4af3-9cf0-21fb29a5a6df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_01_basics/01_input_function/04_INPUT_MAP_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_01_basics/01_input_function/04_input_map_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/01_input_function/05_input_numbers_split_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/01_input_function/06_print_function_end.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/04_assignment_operators/class_tasks/01_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/04_assignment_operators/class_tasks/02_solution_float.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/04_assignment_operators/class_tasks/04_assignment_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/05_booleans/class_tasks/01_booleans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/05_booleans/class_tasks/01_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/05_booleans/class_tasks/02_comparison_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/05_booleans/class_tasks/02_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/05_booleans/class_tasks/03_1_logical_operators_And.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/05_booleans/class_tasks/03_2_logical_operators_Or.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/05_booleans/class_tasks/03_3_logical_operators_Not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/05_booleans/class_tasks/03_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/05_booleans/class_tasks/04_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/01_basics_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/01_soultion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/02_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/02_string_manipulations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/03_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/03_string_length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/04_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/04_string_membership.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/05_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/05_string_comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/06_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/06_string_immutable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/Tasks/string1test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_01_basics/01_input_function/03_input_numbers_split.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_01_basics/01_input_function/03_input_numbers_split.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_01_basics/01_input_function/04_input_map_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_01_basics/01_input_function/04_input_map_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_01_basics/01_soluthons assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_01_basics/01_soluthons assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_01_basics/02_soluthons assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_01_basics/02_soluthons assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_01_basics/04_assignment_operators/04_assignment_operators.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,25 +71,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Jameelm/PycharmProjects/python-basics-int-may-23",
-    "settings.editor.selected.configurable": "project.propDebugger"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jameelm/PycharmProjects/python-basics-int-may-23&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Python&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_01_basics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_01_basics\04_assignment_operators\class_tasks" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_01_basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.04_INPUT_MAP_03">
-    <configuration name="01_soluthons assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.02_solution_float">
+    <configuration name="02_solution_float" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,53 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_01_basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_01_basics/04_assignment_operators/class_tasks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_01_basics/01_soluthons assignment.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="02_input_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics-int-may-23" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_01_basics/01_input_function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_01_basics/01_input_function/02_input_numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03_input_numbers_split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics-int-may-23" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_01_basics/01_input_function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_01_basics/01_input_function/03_input_numbers_split.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_01_basics\04_assignment_operators\class_tasks\02_solution_float.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_INPUT_MAP_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_string_length" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_01_basics/01_input_function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_01_basics/01_input_function/04_INPUT_MAP_03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/03_string_length.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_input_map_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_string_membership" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,11 +161,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_01_basics/01_input_function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_01_basics/01_input_function/04_input_map_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/04_string_membership.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_string_comparison" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics-int-may-23" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/05_string_comparison.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06_string_immutable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics-int-may-23" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/06_string_immutable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.04_INPUT_MAP_03" />
-        <item itemvalue="Python.04_input_map_01" />
-        <item itemvalue="Python.02_input_numbers" />
-        <item itemvalue="Python.03_input_numbers_split" />
-        <item itemvalue="Python.01_soluthons assignment" />
+        <item itemvalue="Python.02_solution_float" />
+        <item itemvalue="Python.06_string_immutable" />
+        <item itemvalue="Python.05_string_comparison" />
+        <item itemvalue="Python.04_string_membership" />
+        <item itemvalue="Python.03_string_length" />
       </list>
     </recent_temporary>
   </component>
@@ -210,5 +236,16 @@
       <updated>1690821214198</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
