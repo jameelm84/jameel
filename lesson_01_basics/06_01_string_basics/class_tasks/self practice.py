@@ -8,5 +8,16 @@
 job = 'XA\t'
 print(job *4)
 usr1=input(f"enter one :")
-usr2 = input(f"two :")
-print(usr2+usr1) # another solu print(f"{usr2}+{usr1}) -- another print(f"{usr2+usr1})
+# usr2 = input(f"two :")
+# print(usr2+usr1) # another solu print(f"{usr2}+{usr1}") -- another print(f"{usr2+usr1})
+# print("-----------------------")
+# input_1= "one"
+# input_2= "two"
+# print(input_2 +  input_1 )
+message = "jameel mahagna"
+print(len(message))
+print("message" ,message[2])
+
+
+
+
