@@ -13,7 +13,7 @@
 #text= input()
 #print(text[1:2]
 name ="Donald Trump"
-print("odd indices-->" , name[1::2]) # e-zogi Q19
+print("odd indices-->" , name[0:2:1]) # e-zogi Q19
 
 namereverse= "leetcode.com"
 print("reverse order -- > " , namereverse[::-1]) # seder hafo5 Q20
