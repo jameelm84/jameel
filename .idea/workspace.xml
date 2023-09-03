@@ -5,42 +5,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="749b2a39-003e-4af3-9cf0-21fb29a5a6df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/self practice 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_01_basics/test100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/01_basics_list/01_basics_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/01_basics_list/02_list_chaneable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/01_basics_list/03_list_duplications.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/01_basics_list/04_list_data_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/01_basics_list/05_lists_type_length.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/01_basics_list/06_check_in_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/01_basics_list/07_sorted_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/01_basics_list/08_list_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/01_basics_list/09_lists_concat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/02_slicing/01_lists_slicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/02_slicing/02_01_lists_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/02_slicing/02_02_lists_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/03_list_methods/01_method_append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/03_list_methods/02_method_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/03_list_methods/03_method_insert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/03_list_methods/04_statement_del.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/03_list_methods/05_method_reversed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02_lists/03_list_methods/06_method_pop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/01_tuple_basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/changing_type_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/lenMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/single_typle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/tuple_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/tuple_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/tuplesVsList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_04_dict/01_basics/access_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_04_dict/01_basics/dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_04_dict/01_basics/dict_creation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_04_dict/01_basics/emptyDict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/Tasks/dic2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/Tasks/dic3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/Tasks/homework1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/Tasks/homework2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_01_basics/Tasks/practtice dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/additional_basics/01_tuple_basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/additional_basics/02_tuple_with_single_item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/additional_basics/03_changing_tuple_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/additional_basics/04_tuples_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/additional_basics/05_tuple_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/additional_basics/06_len_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/additional_basics/07_in_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/additional_basics/08_range_tuple_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/additional_basics/09_tuples_vs_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/02_tuple_methods/01_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/02_tuple_methods/02_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/class_tasks/01_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/class_tasks/02_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/class_tasks/03_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/class_tasks/04_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/class_tasks/05_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/class_tasks/06_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_03_tuples/class_tasks/07_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/01_basics/01_dictionary_basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/01_basics/02_dictionary_keys_duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/01_basics/03_dictionary_values_duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/01_basics/04_dict_values_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/01_basics/05_dict_keys_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/01_basics/06_dict_type_len.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/01_basics/07_dict_creation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/01_basics/08_dict_creation_from_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/02_dict_items_manipulation/01_access_items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/02_dict_items_manipulation/02_access_non_existing_items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/02_dict_items_manipulation/03_access_keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/02_dict_items_manipulation/04_access_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/02_dict_items_manipulation/05_access_items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/02_dict_items_manipulation/06_dict_items_vs_list_items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/02_dict_items_manipulation/07_in_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/02_dict_items_manipulation/08_dict_change_item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/02_dict_items_manipulation/09_dict_add_item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/02_dict_items_manipulation/10_dict_del_item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/03_dict_methods/01_method_clear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/03_dict_methods/02_method_get.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/03_dict_methods/03_method_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/03_dict_methods/04_method_pop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/class_tasks/01_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/class_tasks/02_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/class_tasks/03_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/classs_demos/access_items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/classs_demos/clear_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/classs_demos/del_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/classs_demos/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/classs_demos/dict_creation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_dict/classs_demos/dict_keys_options.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_01_basics/01_soluthons assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_01_basics/01_soluthons assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/practice 14.08.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_01_basics/06_01_string_basics/class_tasks/practice 14.08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_01_basics/test100.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_01_basics/test100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_03_tuples/01_basics/lenMethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_03_tuples/01_basics/lenMethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_03_tuples/01_basics/tuple_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_01_basics/Tasks/Dictoiny.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,28 +119,7 @@
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_01_basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.emptyDict">
-    <configuration name="01_soluthons assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics-int-may-23" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_01_basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_01_basics/01_soluthons assignment.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.values">
     <configuration name="03_soluthons assignment" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,6 +141,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="03_solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics-int-may-23" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_04_dict/class_tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_04_dict/class_tasks/03_solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_access_items" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics-int-may-23" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_04_dict/02_dict_items_manipulation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_04_dict/02_dict_items_manipulation/05_access_items.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="emptyDict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,11 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_04_dict/01_basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_04_dict/classs_demos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_04_dict\01_basics\emptyDict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_04_dict/classs_demos/emptyDict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +204,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="first_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="items" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,11 +212,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_01_basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_04_dict/classs_demos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_01_basics/first_app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_04_dict/classs_demos/items.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +225,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,32 +233,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_01_basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_04_dict/classs_demos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_01_basics/test100.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tuple_pratice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics-int-may-23" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_01_basics/01_tuple" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_01_basics/01_tuple/tuple_pratice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_04_dict/classs_demos/values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.values" />
+        <item itemvalue="Python.items" />
         <item itemvalue="Python.emptyDict" />
-        <item itemvalue="Python.test100" />
-        <item itemvalue="Python.01_soluthons assignment" />
-        <item itemvalue="Python.first_app" />
-        <item itemvalue="Python.tuple_pratice" />
+        <item itemvalue="Python.03_solution" />
+        <item itemvalue="Python.05_access_items" />
       </list>
     </recent_temporary>
   </component>

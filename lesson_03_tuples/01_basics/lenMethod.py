@@ -1,2 +1,2 @@
-my_tuple=tuple(range(100))
-print(my_tuple)
+my_tuple=1,2,3,4,5,6,7,8
+print(len(my_tuple))
