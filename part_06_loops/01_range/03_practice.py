@@ -1,0 +1,1 @@
+print(list(range(25,172,8))) # start,end,step
