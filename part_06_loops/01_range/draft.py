@@ -1,4 +1,14 @@
-for i in range(4):
-    print(i)
-
-print('-' * 20)
+print(list(range(10,-1,-1)))
+iter_s= iter(range(1,10+1))
+print(iter_s)
+print(next(iter_s))
+print(next(iter_s))
+print(next(iter_s))
+print(next(iter_s))
+print(next(iter_s))
+print(next(iter_s))
+print(next(iter_s))
+print(next(iter_s))
+print(next(iter_s))
+print(next(iter_s))
+print(next(iter_s))
