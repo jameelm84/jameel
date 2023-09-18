@@ -5,31 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="749b2a39-003e-4af3-9cf0-21fb29a5a6df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/01_if_statement/01_if_basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/01_if_statement/02_if_basics_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/01_if_statement/03_if_basics_identation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/01_if_statement/04_if_statement_errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/01_if_statement/05_if_statement_pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/02_if_else_statement/01_if_else_basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/02_if_else_statement/02_if_else_errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/02_if_else_statement/03_if_if_blocks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/03_if_elif_else_statement/01_if_elif_else_basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/03_if_elif_else_statement/02_if_elif_else_structure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/03_if_elif_else_statement/03_several_conditions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/04_ternary_operator/01_ternary_vs_if_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/04_ternary_operator/02_ternary_basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/04_ternary_operator/03_ternary_assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/05_match_case/01_match_case_vs_elif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/05_match_case/02_match_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_05_conditional_statements/05_match_case/03_match_case_multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_06_loops/01_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_06_loops/02_reversed_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_06_loops/03_examples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part_05_conditional_statements/02_if_else_statement/practice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part_05_conditional_statements/02_if_else_statement/practice_if_else.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part_05_conditional_statements/homwork/practice1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part_05_conditional_statements/homwork/practice2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part_05_conditional_statements/homwork/practice3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part_05_conditional_statements/homwork/practice4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part_05_conditional_statements/self_practice/basices.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_06_loops/04_while_loop/02_true_while_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_06_loops/04_while_loop/02_true_while_loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,15 +45,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Jameelm/PycharmProjects/python-basics-int-may-23",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jameelm/PycharmProjects/python-basics-int-may-23&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23" />
@@ -88,8 +68,8 @@
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_01_basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.06_list_iter">
-    <configuration name="01_func_basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03_01_functions_vs_pure_code">
+    <configuration name="01_functions_basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_08_functions/01_functions_basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_08_functions/01_functions_demos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_08_functions/01_functions_basics/01_func_basics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_08_functions/01_functions_demos/01_functions_basics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_functions_with_params" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_06_loops/while_loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_08_functions/01_functions_demos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_06_loops/while_loop/01_practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_08_functions/01_functions_demos/02_functions_with_params.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_functions_with_return_params" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_true_while_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +119,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_08_functions/01_functions_basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_06_loops/04_while_loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_08_functions/01_functions_basics/03_functions_with_return_params.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_06_loops/04_while_loop/02_true_while_loop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_01_functions_vs_pure_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics-int-may-23" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_08_functions/01_functions_demos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_08_functions/01_functions_demos/03_01_functions_vs_pure_code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_list_iter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_while_loop_break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,32 +182,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_06_loops/01_range" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_06_loops/04_while_loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_06_loops/01_range/06_list_iter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="09_practice_for_rannge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics-int-may-23" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_06_loops/01_range" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_06_loops/01_range/09_practice_for_rannge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_06_loops/04_while_loop/03_while_loop_break.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06_list_iter" />
-        <item itemvalue="Python.03_functions_with_return_params" />
-        <item itemvalue="Python.01_func_basics" />
-        <item itemvalue="Python.01_practice" />
-        <item itemvalue="Python.09_practice_for_rannge" />
+        <item itemvalue="Python.03_01_functions_vs_pure_code" />
+        <item itemvalue="Python.02_functions_with_params" />
+        <item itemvalue="Python.01_functions_basics" />
+        <item itemvalue="Python.03_while_loop_break" />
+        <item itemvalue="Python.02_true_while_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -281,6 +261,22 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/part_06_loops/01_range/09_practice_for_rannge.py</url>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part_06_loops/02_for_loop_range/01_for_loop_range.py</url>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part_06_loops/02_reversed_exam.py</url>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part_06_loops/class_tasks/11_solution.py</url>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part_06_loops/04_while_loop/02_true_while_loop.py</url>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
