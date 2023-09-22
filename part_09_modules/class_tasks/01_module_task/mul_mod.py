@@ -1,6 +1,5 @@
 from add_mod import add
 
-
 def mul(num1: int, num2: int):
     result = 0
     for a in range(num2):
