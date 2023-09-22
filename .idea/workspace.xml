@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="749b2a39-003e-4af3-9cf0-21fb29a5a6df" name="Changes" comment="" />
+    <list default="true" id="749b2a39-003e-4af3-9cf0-21fb29a5a6df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/self_practice/class_practice_modules/jam1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/class_practice_modules/jam2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/class_practice_modules/jam_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/class_practice_modules/jammain.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/self_practice/class_practice_modules/add_mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/self_practice/class_practice_modules/mul_mod.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,31 +47,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jameelm/PycharmProjects/python-basics-int-may-23-fork&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Jameelm/PycharmProjects/python-basics-int-may-23/part_09_modules/class_tasks/01_module_task",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\part_09_modules\class_tasks\01_module_task" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\part_06_loops\01_range" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_01_basics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\self_practice\class_practice_modules" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_04_dict\01_basics" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_04_dict" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_02_lists" />
-      <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_01_basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="02_functions_with_params" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.calulation_module">
+    <configuration name="01_functools_Modules_reduce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,32 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_08_functions/01_functions_demos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/self_practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_08_functions/01_functions_demos/02_functions_with_params.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03_01_functions_vs_pure_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics-int-may-23" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_08_functions/01_functions_demos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_08_functions/01_functions_demos/03_01_functions_vs_pure_code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/self_practice/01_functools_Modules_reduce.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +114,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="add_mod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calulation_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics-int-may-23" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_09_modules/class_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_09_modules/class_examples/calulation_module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jam_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_09_modules/class_tasks/01_module_task/add_mod.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\self_practice\class_practice_modules\jam_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.add_mod" />
+        <item itemvalue="Python.calulation_module" />
+        <item itemvalue="Python.jam_main" />
+        <item itemvalue="Python.01_functools_Modules_reduce" />
         <item itemvalue="Python.mul_mod" />
-        <item itemvalue="Python.03_01_functions_vs_pure_code" />
-        <item itemvalue="Python.02_functions_with_params" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -273,8 +282,9 @@
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/part_09_modules/class_tasks/01_module_task/mul_mod.py</url>
-          <option name="timeStamp" value="36" />
+          <url>file://$PROJECT_DIR$/self_practice/class_practice_modules/jam2.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
