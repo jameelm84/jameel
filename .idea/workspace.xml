@@ -5,7 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="749b2a39-003e-4af3-9cf0-21fb29a5a6df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/part_09_modules/class_tasks/02_calculator_task/calculator_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/class_tasks/02_calculator_task/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/class_tasks/03_to_do_task/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/class_tasks/03_to_do_task/to_do_items_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/home_tasks/01_quiz_task/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/home_tasks/01_quiz_task/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/home_tasks/01_quiz_task/quiz_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/home_tasks/01_quiz_task/quiz_questions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/class_practice_functions/01_quizQ/calculator_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/class_practice_functions/01_quizQ/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/class_practice_functions/01_quizQ/quiz_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/class_practice_functions/01_quizQ/quiz_questions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/class_practice_functions/01_quizQ/random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/class_practice_functions/25_02_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/class_practice_functions/25_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice/class_practice_functions/35_practice_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-basics-int-may-23.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-basics-int-may-23.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_04_dictionaries/01_basics/08_dict_creation_from_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_04_dictionaries/01_basics/08_dict_creation_from_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_09_modules/class_tasks/03_to_do_task/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/part_09_modules/class_tasks/03_to_do_task/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_09_modules/home_tasks/01_quiz_task/README.MD" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +67,14 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jameelm/PycharmProjects/python-basics-int-may-23-fork-master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jameelm/PycharmProjects/python-basics-int-may-23&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\part_09_modules\class_tasks\01_module_task" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23" />
+      <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\part_09_modules\class_tasks\01_module_task" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\part_06_loops\01_range" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_01_basics" />
     </key>
@@ -65,28 +86,7 @@
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_02_lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.calulation_module">
-    <configuration name="01_functools_Modules_reduce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics-int-may-23" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/self_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/self_practice/01_functools_Modules_reduce.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="03_soluthons assignment" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calulation_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_09_modules/class_examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_09_modules/class_tasks/02_calculator_task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_09_modules/class_examples/calulation_module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_09_modules/class_tasks/02_calculator_task/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jam_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_09_modules/class_tasks/01_module_task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_09_modules/home_tasks/01_quiz_task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\self_practice\class_practice_modules\jam_main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_09_modules/home_tasks/01_quiz_task/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_09_modules/class_tasks/01_module_task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/self_practice/class_practice_functions/01_quizQ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_09_modules/class_tasks/01_module_task/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/self_practice/class_practice_functions/01_quizQ/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mul_mod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="quiz_manager (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,11 +179,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_09_modules/class_tasks/01_module_task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_09_modules/home_tasks/01_quiz_task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_09_modules/class_tasks/01_module_task/mul_mod.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_09_modules/home_tasks/01_quiz_task/quiz_manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quiz_questions (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics-int-may-23" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_09_modules/home_tasks/01_quiz_task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_09_modules/home_tasks/01_quiz_task/quiz_questions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,10 +215,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calulation_module" />
-        <item itemvalue="Python.jam_main" />
-        <item itemvalue="Python.01_functools_Modules_reduce" />
-        <item itemvalue="Python.mul_mod" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.quiz_manager (1)" />
+        <item itemvalue="Python.quiz_questions (1)" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -279,6 +300,34 @@
           <url>file://$PROJECT_DIR$/self_practice/class_practice_modules/jam2.py</url>
           <line>3</line>
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part_08_functions/class_tasks_solutions/01_solution.py</url>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part_08_functions/class_tasks_solutions/06_solution.py</url>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part_08_functions/class_tasks_solutions/07_solution.py</url>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part_08_functions/class_tasks_solutions/10_solution.py</url>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part_08_functions/class_tasks_solutions/11_solution.py</url>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part_04_dictionaries/01_basics/06_dict_type_len.py</url>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part_04_dictionaries/02_dict_items_manipulation/01_access_items.py</url>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
