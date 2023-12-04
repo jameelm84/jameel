@@ -10,7 +10,7 @@ def get_random_question() -> Tuple[str, str]:  # Selects a random question from 
     # game_questions.pop(question)
     return question, answer
 
-user_score = 0l
+user_score =+1
 def check_answer(question, user_answer) -> bool :
     correct_answer = game_questions.get(question)
     return user_answer.lower() == correct_answer.lower()
