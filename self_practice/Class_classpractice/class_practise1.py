@@ -4,7 +4,7 @@ class MyCar:
 
     def my_drive(self):
         print("this is my driving")
-    def go_speed(self, max_speed):
+    def go_speed(self, max_speed: int):
         print("up to speed", max_speed)
 
 
@@ -13,4 +13,4 @@ print(type(syarte))
 print(syarte.year)
 print(syarte.brand)
 syarte.my_drive()
-syarte.go_speed(300)
+syarte.go_speed()
