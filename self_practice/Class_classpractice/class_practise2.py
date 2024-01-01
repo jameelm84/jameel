@@ -9,7 +9,7 @@ class MyCar:
         print(f"up to speed {self.brand} {max_speed}")
 
 
-syarte_tesla = MyCar("tesla",2023)
+syarte_tesla = MyCar("tesla",2023) #instance
 syarte_tesla.my_car()
 syarte_bmw = MyCar("BMW", 2024)
 syarte_bmw.my_car()
