@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="749b2a39-003e-4af3-9cf0-21fb29a5a6df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/part_14_telegram_bot/jameel_bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/self_practice/flet/flet_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_16_telegram_bots/01_basic_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_16_telegram_bots/02_basic_event_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_16_telegram_bots/03_different_types_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_16_telegram_bots/04_send_copy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/self_practice/Class_classpractice/class_practise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/self_practice/Class_classpractice/class_practise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_12_oop/01_basic_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_12_oop/01_basic_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_14_telegram_bot/jameel_bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/self_practice/flet/flet_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/self_practice/flet/flet_example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +32,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/part_14_telegram_bot/jameel_bot.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,28 +57,28 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jameelm/PycharmProjects/myproject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jameelm/PycharmProjects/python-basics-int-may-23/part_14_telegram_bot&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\self_practice\Class_classpractice" />
+      <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\part_14_telegram_bot" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23" />
+      <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\self_practice\Class_classpractice" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\self_practice" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\part_09_modules\class_tasks\01_module_task" />
-      <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\part_06_loops\01_range" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\self_practice\class_practice_modules" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23" />
+      <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\self_practice\class_practice_modules" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_04_dict\01_basics" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_04_dict" />
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_02_lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.flet_example">
-    <configuration name="03_readlines_file_basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.04_send_copy">
+    <configuration name="01_basic_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_10_files/01_files_basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_12_oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_10_files/01_files_basics/03_readlines_file_basics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_12_oop/01_basic_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_practise1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_send_copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/self_practice/Class_classpractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_16_telegram_bots" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/self_practice/Class_classpractice/class_practise1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_16_telegram_bots/04_send_copy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_practise2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="flet_basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/self_practice/Class_classpractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_14_gui/01_basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/self_practice/Class_classpractice/class_practise2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_14_gui/01_basics/flet_basics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="jameel_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,11 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/self_practice/sqlite3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_14_telegram_bot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/self_practice/sqlite3/practice_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_14_telegram_bot/jameel_bot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04_send_copy" />
+        <item itemvalue="Python.jameel_bot" />
         <item itemvalue="Python.flet_example" />
-        <item itemvalue="Python.class_practise2" />
-        <item itemvalue="Python.class_practise1" />
-        <item itemvalue="Python.practice_class" />
-        <item itemvalue="Python.03_readlines_file_basics" />
+        <item itemvalue="Python.01_basic_class" />
+        <item itemvalue="Python.flet_basics" />
       </list>
     </recent_temporary>
   </component>
