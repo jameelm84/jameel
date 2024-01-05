@@ -2,10 +2,12 @@ import asyncio
 import logging
 from aiogram import Bot
 from aiogram import Dispatcher
-from aiogram import types
+import os
+from dotenv import load_dotenv
 
-BOT_TOKEN = "6842779414:AAGLwf8lA5sOjdOsGousW58gtRZUuLuhLUA"
-bot = Bot(token=BOT_TOKEN)
+load_dotenv()
+
+bot = Bot(token=os.getenv("BOT_TOKEN"))
 dp = Dispatcher()
 
 
@@ -17,7 +19,6 @@ async def answer_as_echo(message: types.Message):
 @dp.message()
 async def reply_as_echo(message: types.Message):
     await message.reply(text=message.text)
-
 
 async def main():
     logging.basicConfig(level=logging.INFO)

@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="749b2a39-003e-4af3-9cf0-21fb29a5a6df" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part_16_telegram_bots/03_different_types_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_16_telegram_bots/03_different_types_handler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +69,7 @@
       <recent name="C:\Users\Jameelm\PycharmProjects\python-basics-int-may-23\lesson_02_lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03_different_types_handler">
+  <component name="RunManager" selected="Python.04_send_copy">
     <configuration name="01_basic_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics-int-may-23" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,8 +198,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03_different_types_handler" />
         <item itemvalue="Python.04_send_copy" />
+        <item itemvalue="Python.03_different_types_handler" />
         <item itemvalue="Python.jameel_bot" />
         <item itemvalue="Python.flet_example" />
         <item itemvalue="Python.01_basic_class" />
