@@ -2,6 +2,7 @@ import asyncio
 import logging
 from aiogram import Bot
 from aiogram import Dispatcher
+from aiogram import types
 import os
 from dotenv import load_dotenv
 
@@ -20,10 +21,12 @@ async def answer_as_echo(message: types.Message):
 async def reply_as_echo(message: types.Message):
     await message.reply(text=message.text)
 
+
 async def main():
     logging.basicConfig(level=logging.INFO)
     await dp.start_polling(bot)
 
+#print(f"{__name__ = }")
 
 if __name__ == "__main__":
     asyncio.run(main())
